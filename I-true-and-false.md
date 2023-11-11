@@ -8,3 +8,4 @@ For each of the statements below, mark with an “X” the column that correctly
 4. One of the popular alternatives before git was Las
 5. git is not a tool
 6. git is not Github
+7. The public key is used to decrypt messages. 

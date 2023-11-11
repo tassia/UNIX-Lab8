@@ -19,3 +19,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. Port 16
    c. Port 22
    d. Port 1
+
+4. Which command can be used to find your ip address?
+   a. $ show ip address
+   b. $ ip show address
+   c. $ ip address show
+   d. $ display id address
