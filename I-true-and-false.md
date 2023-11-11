@@ -2,16 +2,12 @@
 
 For each of the statements below, mark with an “X” the column that correctly classifies the sentence. If you select False, you MUST justify your choice, saying what is wrong with the statement.
 
-1. Git and GitHub are the same thing.
-    FALSE
-        GitHub is a service that implements and "talks" Git
-
-2. There is only one type of merge.
-    FALSE
-        There are 2 types of merges. 
-        An automatic merge can happen if changes are easily seperated.
-        A manual merge is needed for conflicts involving changes of the same file.
-        
-3. A branch of a git repository is a full copy of the original repository.
-
-
+1. notepad text editor is only for windows operating systems 
+2. If you are working in teams and the first developer pushed a repository, the second developer have to pull first before he can push his changes
+3. Git stands for Global Information Tracker
+4. One of the popular alternatives before git was Las
+5. git is not a tool
+6. git is not Github
+7. Git and GitHub are the same thing
+8. There is only one type of merge.
+9. A branch of a git repository is a full copy of the original repository
