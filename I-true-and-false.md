@@ -8,3 +8,6 @@ For each of the statements below, mark with an “X” the column that correctly
 4. One of the popular alternatives before git was Las
 5. git is not a tool
 6. git is not Github
+7. Git and GitHub are the same thing
+8. There is only one type of merge.
+9. A branch of a git repository is a full copy of the original repository
