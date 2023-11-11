@@ -25,3 +25,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. $ ip show address
    c. $ ip address show
    d. $ display id address
+
+5. The command allowing to make a local copy of a git project is:
+   a. git add
+   b. git commit
+   c. git push
+   d. git clone

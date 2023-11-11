@@ -12,3 +12,8 @@ For each of the statements below, mark with an “X” the column that correctly
 8. There is only one type of merge.
 9. A branch of a git repository is a full copy of the original repository
 10. The public key is used to decrypt messages. 
+11. The remote host can be identified only by the IP address.
+12. Login onto a remote host allows you to execute only very simple commands, 
+like viewing the files and directories.
+13. You cannot run commands directly with ssh.
+14. When a user is created, he is immediatey adde to sudo group.
