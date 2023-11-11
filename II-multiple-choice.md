@@ -13,3 +13,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. git commit "comment"
    c. git commit main "comment"
    d. git commit -m "comment"
+
+3. Which port is commonly used for SSH connections?
+   a. Port 0
+   b. Port 16
+   c. Port 22
+   d. Port 1
